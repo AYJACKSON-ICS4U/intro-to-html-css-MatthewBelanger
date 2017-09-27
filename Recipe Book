@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #maintitle{
+            color:rgb(158, 30, 53);
+        }
+        .title{
+            color:rgb(24, 6, 184);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id= "maintitle">Matt's Recipe Book</h1>
+        
+        <h2 class="title">Contents:</h2>
+        
+        <ol>
+            <li><a href="#1">Shrimp Scampi with Linguini</a></li>
+            <li><a href="#2">Sausage and Radicchio Orecchiette</a></li>
+            <li><a href="#3">Drunken Spaghetti
+</a></li>
+        </ol>
+        
+        <h2 id="1" class="title">Shrimp Scampi with Linguini</h2>
+        
+        <ul>
+            <li>Time: 40min</li>
+            <li>Serves: 4-6</li>
+        </ul>
+        
+    
+         <h2 class="title">Ingredients:</h2>
+        <ul>
+<li>1 pound linguini</li>
+<li> 4 tablespoons butter</li>
+<li> 4 tablespoons extra-virgin olive oil</li>
+<li>2 shallots</li>
+<li>2 cloves garlic</li>
+<li>1 pound shrimp</li>
+<li>Kosher salt and freshly ground black pepper</li>
+<li>1/2 cup dry white wine</li>
+<li>Juice of 1 lemon</li>
+<li>1/4 cup finely chopped parsley leaves</li>    
+</ul>
+        
+        <h2 class="title">Directions</h2>
+        <p>
+        For the pasta, put a large pot of water on the stove to boil. When it has come to the boil, add a couple of tablespoons of salt and the linguini. Stir to make sure the pasta separates; cover. When the water returns to a boil, cook for about 6 to 8 minutes or until the pasta is not quite done. Drain the pasta.
+
+Meanwhile, in a large skillet, melt 2 tablespoons butter in 2 tablespoons olive oil over medium-high heat. Saute the shallots, garlic, and red pepper flakes (if using) until the shallots are translucent, about 3 to 4 minutes. Season the shrimp with salt and pepper; add them to the pan and cook until they have turned pink, about 2 to 3 minutes. Remove the shrimp from the pan; set aside and keep warm. Add wine and lemon juice and bring to a boil. Add 2 tablespoons butter and 2 tablespoons oil. When the butter has melted, return the shrimp to the pan along with the parsley and cooked pasta. Stir well and season with salt and pepper. Drizzle over a bit more olive oil and serve immediately.
+</p>
+        
+    <p><em>Source: <a href="http://www.cookingchanneltv.com/recipes/tyler-florence/shrimp-scampi-with-linguini0-1942429">Shrimp Scampi with Linguini</a></em></p>
+    
+    
+    
+            <h2 id="2" class="title">Sausage and Radicchio Orecchiette</h2>
+        
+        <ul>
+            <li>Time: 32min</li>
+            <li>Serves: 4-6</li>
+        </ul>
+        
+    
+<h2 class="title">Ingredients:</h2>
+<ul>
+<li>3 tablespoons olive oil </li>
+<li>1/2 red onion, chopped fine</li>
+<li>1 handful fresh mint</li>
+<li>2 fresh bay leaves</li>
+<li>4 (6-ounce) pork sausage links, casings removed</li>
+<li>3/4 cup dry white wine</li>
+<li>1 handful walnuts, hand crushed</li>
+<li>2 cups orecchiette</li>
+<li>1/2 head radicchio, thinly sliced</li>
+<li>Kosher salt and freshly ground black pepper</li>
+<li>Freshly grated Parmesan heese, for seasoning</li> 
+</ul>
+        
+        <h2 class="title">Directions</h2>
+        <p>
+        Heat a pan over medium-high heat. Add the olive oil. Once hot, add the onion and the sausages and using a wooden spoon, break up the sausages into small pieces as you brown them. Add the mint and bay leaves and continue to cook. 
+
+Once the sausage is golden brown, add the wine to the pan, and stir away, let the alcohol evaporate, then lower the flame and season with salt and pepper. Add the walnuts and let the sauce slowly simmer for about 5 to 10 minutes. 
+
+Cook the pasta in a large pot of salted boiling water according to package directions for al dente. 
+
+When ready to serve, add the radicchio to the sauce, and stir well. 
+
+Add the cooked pasta and toss. Add some grated Parmesan, to taste. Serve immediately. Buon Appetito!
+</p>
+        
+    <p><em>Source: <a href="http://www.cookingchanneltv.com/recipes/debi-mazar-and-gabriele-corcos/sausage-and-radicchio-orecchiette-1960754">Sausage and Radicchio Orecchiette</a></em></p>
+    
+    <h2 id="3" class="title">Drunken Spaghetti
+</h2>
+        
+        <ul>
+            <li>Time: 32min</li>
+            <li>Serves: 4-6</li>
+        </ul>
+        
+    
+<h2 class="title">Ingredients:</h2>
+<ul>
+<li>1 pound spaghetti</li>
+<li>4 tablespoons extra-virgin olive oil</li>
+<li>2 cloves garlic</li>
+<li>3 to 4 anchovy fillets</li>
+<li>3 dried chili peppers</li>
+<li>2 cups red wine</li>
+<li>Small bunch fresh Italian parsley</li>
+<li>1/2 cup freshly grated pecorino cheese
+</li>
+</ul>
+        
+        <h2 class="title">Directions</h2>
+        <p>
+        HBring salted water to boil in a large pot. Add the spaghetti and cook for 6 to 7 minutes, pasta should still be a little firm in the middle (just before the pasta is al dente). In a saucepan, heat the extra-virgin olive oil. Add the garlic, anchovy fillets and chili peppers, and cook for about 2 to 3 minutes. Add the spaghetti to the pan, and toss well. Pour in the red wine, and cook until it has reduced and the spaghetti has finished cooking. Add freshly chopped parsley and grated pecorino cheese to pasta, and toss well. Remove the pasta from heat, transfer to a warm bowl and serve immediately.
+</p>
+        
+    <p><em>Source: <a href="http://www.cookingchanneltv.com/recipes/david-rocco/drunken-spaghetti-1959238">Drunken Spaghetti
+</a></em></p>
+    
+    </body>
+    
+</html>
